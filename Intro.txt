@@ -1,0 +1,53 @@
+Presentation:
+https://goo.gl/Tbz6Xf
+
+Github Code:
+https://goo.gl/KbUroF
+
+Youtube:
+https://ww.youtube.com/user/toddmcleod
+
+Twitter:
+https://twitter/Todd_Mcleod
+
+Go To This One First:
+https://goo.gl/PHKgO7
+
+Course outline:
+https://docs.google.com/document/d/1ckYpi6hcRkaBUEk975f54oGsHYHu7GhzOk7-nOrkNxo/edit
+
+Go Lang was created by Google by the three best engineers in the world
+Golang was created to be effiecnt as C and easy as Python
+
+Great for parellel and concurrency
+
+Go can be used for ML, Image processing, sys admin, hardware, scripts, web apps
+
+Go is a static Language not a dynamic Language
+
+Use Google Chrome
+ 
+
+Golang.org has lang and standard lib
+
+Godoc.org has the third party libs
+
+Offical doc has lang spec and effective go
+
+Terminal:
+
+- If local IDE does not work use the golang playground
+
+- Setup bash and Git
+
+- ls -la will show the permission and the date it was created and more.
+
+- cat will display content really quick to Terminal
+
+- rm is normal delete, with dir and force you can use rm -rf </dirname>
+
+- Ok if we want to do a search line with grep we can do, cat <filename> | grep <keyword>
+
+- If we want to serch for a file in a dir or current dir we can do, ls | grep -i <filename or dirname>
+
+- You can also use Sha 256 to check the auth of a file download
