@@ -51,3 +51,12 @@ Terminal:
 - If we want to serch for a file in a dir or current dir we can do, ls | grep -i <filename or dirname>
 
 - You can also use Sha 256 to check the auth of a file download
+
+Go Workspace:
+
+- bin
+- Pkg 
+- src 
+  -github.com
+    - git username
+    
